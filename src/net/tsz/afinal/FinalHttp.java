@@ -81,7 +81,7 @@ public class FinalHttp {
 
 	private final DefaultHttpClient httpClient;
 	private final HttpContext httpContext;
-	private String charset = "utf-8";
+	private String charset = "utf-8";   
 
 	private final Map<String, String> clientHeaderMap;
 
